@@ -1,0 +1,32 @@
+body {
+    width : 30%;
+}
+
+#res{
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+
+#btns > .binaryButton {
+    background-color: lightgreen;
+    color: brown;
+}
+
+#btns > .button {
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+
+#btns > .utilityButton {
+    background-color: darkgreen;
+    color: white;
+}
+#btns > .operatorButton {
+    background-color: black;
+    color: red;
+}
